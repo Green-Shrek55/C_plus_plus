@@ -1,0 +1,3 @@
+admin admin123 pass1234
+cook cook123 pass1234
+waiter waiter123 pass1234

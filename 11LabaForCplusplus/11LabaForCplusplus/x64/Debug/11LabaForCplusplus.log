@@ -1,0 +1,25 @@
+﻿  11LabaForCplusplus.cpp
+  Admin.cpp
+  Cook.cpp
+  DataStorage.cpp
+C:\Users\96298\source\repos\11LabaForCplusplus\11LabaForCplusplus\User.h(10,40): error C2061: синтаксическая ошибка: идентификатор "DataStorage"
+C:\Users\96298\source\repos\11LabaForCplusplus\11LabaForCplusplus\DataStorage.cpp(97,43): error C2039: "getItems": не является членом "Order".
+C:\Users\96298\source\repos\11LabaForCplusplus\11LabaForCplusplus\DataStorage.cpp(97,30): error C2530: item: ссылки должны быть инициализированы
+C:\Users\96298\source\repos\11LabaForCplusplus\11LabaForCplusplus\DataStorage.cpp(97,30): error C3531: item: символ, тип которого содержит спецификатор 'auto' должен иметь инициализатор
+C:\Users\96298\source\repos\11LabaForCplusplus\11LabaForCplusplus\DataStorage.cpp(97,35): error C2143: синтаксическая ошибка: отсутствие ";" перед ":"
+C:\Users\96298\source\repos\11LabaForCplusplus\11LabaForCplusplus\DataStorage.cpp(97,53): error C2143: синтаксическая ошибка: отсутствие ";" перед ")"
+C:\Users\96298\source\repos\11LabaForCplusplus\11LabaForCplusplus\DataStorage.cpp(107,27): error C2429: для функция языка "структурированные привязки" нужен флаг компилятора "/std:c++17" 
+C:\Users\96298\source\repos\11LabaForCplusplus\11LabaForCplusplus\DataStorage.cpp(108,23): error C2593: неоднозначный "оператор <<"
+C:\Users\96298\source\repos\11LabaForCplusplus\11LabaForCplusplus\DataStorage.cpp(110,27): error C2429: для функция языка "структурированные привязки" нужен флаг компилятора "/std:c++17" 
+C:\Users\96298\source\repos\11LabaForCplusplus\11LabaForCplusplus\DataStorage.cpp(111,23): error C2593: неоднозначный "оператор <<"
+C:\Users\96298\source\repos\11LabaForCplusplus\11LabaForCplusplus\DataStorage.cpp(113,27): error C2429: для функция языка "структурированные привязки" нужен флаг компилятора "/std:c++17" 
+C:\Users\96298\source\repos\11LabaForCplusplus\11LabaForCplusplus\DataStorage.cpp(114,23): error C2593: неоднозначный "оператор <<"
+  Guest.cpp
+  main.cpp
+  Menu.cpp
+  Order.cpp
+  Product.cpp
+  User.cpp
+  Utils.cpp
+  Waiter.cpp
+  Создание кода...

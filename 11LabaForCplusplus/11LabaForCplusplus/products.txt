@@ -1,0 +1,6 @@
+1 Beef 2.50
+2 Bun 0.50
+3 Lettuce 0.25
+4 Dough 1.00
+5 Cheese 1.50
+6 Tomato 0.75
