@@ -1,0 +1,6 @@
+﻿  Restik.cpp
+C:\Users\96298\Downloads\Restik-master\Restik-master\Restik\Restik.cpp(172,87): warning C4834: удаление возвращаемого значения функции с атрибутом [[nodiscard]]
+C:\Users\96298\Downloads\Restik-master\Restik-master\Restik\Restik.cpp(179,72): warning C4834: удаление возвращаемого значения функции с атрибутом [[nodiscard]]
+C:\Users\96298\Downloads\Restik-master\Restik-master\Restik\Restik.cpp(268,1): warning C4717: Provider::SendMen: рекурсия на всех путях выполнения, функция вызовет переполнение стека
+C:\Users\96298\Downloads\Restik-master\Restik-master\Restik\Restik.cpp(233,1): warning C4717: Skladov::nado: рекурсия на всех путях выполнения, функция вызовет переполнение стека
+  Restik.vcxproj -> C:\Users\96298\Downloads\Restik-master\Restik-master\x64\Debug\Restik.exe
